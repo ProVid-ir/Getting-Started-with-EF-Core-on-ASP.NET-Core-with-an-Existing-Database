@@ -1,0 +1,10 @@
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.deps.json
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.runtimeconfig.json
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.runtimeconfig.dev.json
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.dll
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.pdb
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.csproj.CoreCompileInputs.cache
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.AssemblyInfoInputs.cache
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.AssemblyInfo.cs
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.dll
+C:\Users\green leaf\source\repos\EFGetStarted.AspNetCore.ExistingDb\EFGetStarted.AspNetCore.ExistingDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.ExistingDb.pdb
